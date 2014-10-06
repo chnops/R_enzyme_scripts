@@ -3,13 +3,13 @@ R_enzyme_scripts
 
 These are scripts that assist with the processing of extracellular enzyme data
 
-|_enzyme_processing_functions.R|
+_enzyme_processing_functions.R_
 ================================
 
 This script includes functions that should be run first.  These are functions with equations that are in a seperate script
 for ease of use.
 
-|_enzyme_data_processing.R_|
+_enzyme_data_processing.R_
 ============================
 
 This script is used to take raw enzyme data and convert it to rates (nmol/g/h).
