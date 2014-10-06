@@ -15,3 +15,7 @@ for ease of use.
 This script is used to take raw enzyme data and convert it to rates (nmol/g/h).
 This is based on German et al., 2011 (DOI: 10.1016/j.soilbio.2011.03.017); note the corrigendum with changes
 to equations.  These have been taken into account.
+
+TODO
+
+These scripts need to be confirmed by comparing output from previous Excel versions with output from the scripts.
