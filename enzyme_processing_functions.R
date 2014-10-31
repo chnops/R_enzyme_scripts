@@ -97,7 +97,7 @@ for(i in 1:length(sample_ids)){
 			new_row[1,1+j]<-act
 			}
 		if(j > 5){
-			act<-activity(temp,j,mub_quench, muc_emission,mean(temp[,3]),mean(temp[,5]))
+			act<-activity(temp,j,muc_quench, muc_emission,mean(temp[,3]),mean(temp[,5]))
 			new_row[1,1+j]<-act
 			
 		}
